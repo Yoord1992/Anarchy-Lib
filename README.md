@@ -21,7 +21,7 @@ Easy Use Anarchy Bot on Telegram Groups
 
 - 
 
-<b>Anarchy Library : </b> https://github.com/Anarchy-Service/Anarchy-Lib
+<b>Anarchy Bot : </b> https://github.com/Anarchy-Service/Anarchy-Bot
 
 <b>Telegram :</b> [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) .
 
