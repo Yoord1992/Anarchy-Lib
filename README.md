@@ -3,7 +3,7 @@
    <br>
 </h1>
   
-# Anarchy Group Manager library
+# Anarchy Group Manager Library
  [![API Version](https://img.shields.io/badge/Bot%20API-4.9%20%28June%202020%29-32a2da.svg)](https://core.telegram.org/bots/api#june-4-2020)
  [![GitHub license](https://img.shields.io/github/license/persepolisdm/persepolis.svg)](https://github.com/Anarchy-Service/Anarchy-Bot/blob/master/LICENSE)
  [![Minimum PHP Version](http://img.shields.io/badge/php-%3E%3D7.4-8892BF.svg)](https://php.net/)
