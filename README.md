@@ -12,18 +12,27 @@
  [![Code Intelligence](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/badges/code-intelligence.svg?b=master)](https://scrutinizer-ci.com/g/Anarchy-Service/Anarchy-Bot/?branch=master)
  
 Easy Use Anarchy Bot on Telegram Groups
-
+ <p>
+  <br>
 <b>How To Use Anarchy Bot on Groups </b>
 
 - Just Add [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot) On Your Group :)
-
+<br>
+ <p>
 <b>How To Use Anarchy Bot Source </b>
 
-- 
+- Run Anarchy Service Composer Install
+
+```php
+composer create-project anarchyservice/anarchy-bot
+```
+
+     
+<br>
 
 
-<b>Bot :</b> [Anarchy Bot ](https://github.com/Anarchy-Service/Anarchy-Bot)
+
+
+<b>Library :</b> [Anarchy Library](https://github.com/Anarchy-Service/Anarchy-Lib)
 
 <b>Telegram :</b> [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot)
-
-
