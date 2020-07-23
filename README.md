@@ -33,6 +33,6 @@ composer create-project anarchyservice/anarchy-bot
 
 
 
-<b>Library :</b> [Anarchy Library](https://github.com/Anarchy-Service/Anarchy-Lib)
+<b>Bot :</b> [Anarchy Bot](https://github.com/Anarchy-Service/Anarchy-Bot)
 
 <b>Telegram :</b> [@AnarchyService_Bot](https://telegram.me/AnarchyService_Bot)
