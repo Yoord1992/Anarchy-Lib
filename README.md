@@ -26,7 +26,7 @@ Easy Use Anarchy Bot on Telegram Groups
 ```php
 composer create-project anarchyservice/anarchy-bot
 ```
-- You're env.php file should be something like env.php.sample, then you gotta set a web hook on hook.php
+- You're env.php file should be something like env.php.sample, then you gotta set a webhook on hook.php
      
 <br>
 
